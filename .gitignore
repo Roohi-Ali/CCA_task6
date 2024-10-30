@@ -1,9 +1,5 @@
 # Node modules
 node_modules/
-
-# Compiled JavaScript files
-dist/
-*.js
 .env
 
 
